@@ -1,1 +1,0 @@
-# Infection-Clearance-Rate-in-Fractional-Order-SEIR-Model-Stability-Analysis
